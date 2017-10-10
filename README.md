@@ -1,7 +1,7 @@
-################# Advanced Group Messager ################
+################# Advanced Group Messenger ################
 
 ### Description: 
-A basic group messenger which handles multicasting of a message from one AVD to a fixed set of AVDs and store the message in a key value storage system
+A Group Text Messenger which maintains a TOTAL and FIFO ordering of all the messages sent.
 
 ### Implementation:
 * The application is launched on 5 different AVDs each with a specified port.
