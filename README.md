@@ -15,9 +15,9 @@ A Group Text Messenger which maintains a TOTAL and FIFO ordering of all the mess
 * The messages are diplayed on the screen of every AVD in the order expected.
 
 ### Link to the Code files:
-https://github.com/Sumedh0192/Distributed-Systems/tree/master/GroupMessenger2/app/src/main/java/edu/buffalo/cse/cse486586/groupmessenger2/
+https://github.com/Sumedh0192/Group-Text-Messenger-With-Total-and-FIFO-Ordering/blob/master/app/src/main/java/edu/buffalo/cse/cse486586/groupmessenger2/
 
 ### Link to official project description:
-https://github.com/Sumedh0192/Distributed-Systems/blob/master/GroupMessenger2/PA%202%20Part%20B%20Specification.pdf
+https://github.com/Sumedh0192/Group-Text-Messenger-With-Total-and-FIFO-Ordering/blob/master/PA%202%20Part%20B%20Specification.pdf
 
 
